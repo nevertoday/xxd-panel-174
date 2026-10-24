@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 174｜Naive Hand-drawn Sticker Assemblage: breaks the most recognisable features of a photo's subject into several small, separate hand-drawn sticker pieces — chunky, naive, slightly clumsy shapes with clear cut-out outlines and crayon, gouache or rough-brush texture — and clusters them in the centre, overlapping and shifting in size and direction so together they form one readable subject, not a tidy grid or a random sticker pack. Soft, bright, warm palette from the photo (cream yellow, peach, coral, mint, lake teal, misty blue, soft lilac), large whitespace and a few short words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-174 or asks for naive sticker collage, hand-drawn sticker cluster or chunky childlike illustration from a photo.",
+  "short_description": "稚拙贴纸聚合志：把照片主体拆成一枚枚粗笔手绘贴纸，在画面中心重新拼成一个整体",
+  "zh-CN": {
+    "name": "稚拙贴纸聚合志",
+    "tagline": "把照片主角拆成一枚枚粗笔手绘贴纸，再在画面中心聚成一个整体。",
+    "look": "主体最重要的几处特征被拆成若干独立的小贴纸：造型粗壮、稚拙、带点笨拙，外轮廓清楚，像剪下来的贴纸，带粉蜡、水粉或粗笔覆盖的质感。这些贴纸在画面中心聚合，大小不一、错位重叠、方向互相呼应，合起来拼出一个认得出的主体，既不是整齐网格，也不是随手撒满。颜色从照片里取讨喜的颜色，调成奶油黄、蜜桃粉、珊瑚橙、薄荷绿、湖水青、雾蓝、柔紫这类明快暖色。四周大片留白，少量短句落在留白或贴纸群边上。",
+    "traits": [
+      "稚拙粗笔触",
+      "贴纸式单元",
+      "中心聚合",
+      "手工肌理",
+      "大面积留白"
+    ],
+    "good": [
+      "能拆成几个部分的主体：一只猫（耳朵、尾巴、爪子）、一束花、一个汉堡、一辆自行车",
+      "带有几样小物件的日常场景：早餐桌、书包和文具、野餐篮",
+      "想做成贴纸、周边、手机壳图案或童趣海报的照片"
+    ],
+    "poor": [
+      "需要一个完整连续形体的照片：人脸特写、风景全景，拆成贴纸后会失去整体",
+      "要求写实、精细矢量或光滑边缘的需求",
+      "想要满屏随机贴纸、商业贴纸包或电商素材效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Hand-drawn Sticker Assemblage",
+    "tagline": "Breaks the star of your photo into chunky hand-drawn stickers and clusters them back into one figure in the centre.",
+    "look": "The subject's most important features are split into several small, separate stickers: chunky, naive, slightly clumsy shapes with clear outlines like cut-out stickers, and the texture of crayon, gouache or rough brush. They gather in the centre, varying in size, shifting and overlapping, and pointing in related directions, so together they form a recognisable subject, neither a tidy grid nor a random scatter. Friendly colours from the photo become bright, warm tones such as cream yellow, peach, coral, mint, lake teal, misty blue and soft lilac. Wide white space surrounds the cluster, with a few short words in it or along the edge of the group.",
+    "traits": [
+      "Naive chunky strokes",
+      "Sticker pieces",
+      "Central cluster",
+      "Handmade texture",
+      "Wide whitespace"
+    ],
+    "good": [
+      "Subjects that break into parts: a cat (ears, tail, paws), a bunch of flowers, a burger, a bicycle",
+      "Everyday scenes with a few small items: a breakfast table, a school bag and stationery, a picnic basket",
+      "Photos you want as stickers, merchandise, a phone-case pattern or a playful poster"
+    ],
+    "poor": [
+      "Photos that need one continuous form: close-up faces, wide landscapes, which lose their unity as stickers",
+      "Requests for realism, precise vector art or smooth edges",
+      "Requests for a screen full of random stickers, a commercial sticker pack or e-commerce clip art"
+    ]
+  },
+  "ja": {
+    "name": "素朴な手描きステッカーの集合",
+    "tagline": "写真の主役を太い筆の手描きステッカーに分け、画面中央で再びひとつの姿に集めます。",
+    "look": "主役のいちばん大事な特徴をいくつかの独立した小さなステッカーに分けます。形は太く素朴で少し不器用、輪郭は切り抜いたステッカーのようにはっきりし、クレヨン、ガッシュ、太い筆で塗り重ねた質感があります。ステッカーは中央に集まり、大きさを変え、ずれて重なり、向きを呼応させながら、全体でひとつのわかる主役になります。整然としたグリッドでも、ばらまいただけでもありません。色は写真の親しみやすい色を、クリームイエロー、ピーチ、珊瑚色、ミント、湖の青緑、霧の青、やわらかな薄紫のような明るく温かな色に整えます。まわりには広い余白があり、短い言葉が余白か集まりの縁に少しだけ入ります。",
+    "traits": [
+      "素朴な太い筆致",
+      "ステッカーの単位",
+      "中央への集合",
+      "手仕事の質感",
+      "広い余白"
+    ],
+    "good": [
+      "いくつかの部分に分けられる主役：猫（耳、しっぽ、足）、花束、ハンバーガー、自転車",
+      "小物がいくつかある日常の場面：朝ごはんの食卓、通学かばんと文房具、ピクニックバスケット",
+      "ステッカー、グッズ、スマホケースの柄、遊び心のあるポスターにしたい写真"
+    ],
+    "poor": [
+      "ひと続きの形が必要な写真：顔のアップ、広い風景（ステッカーに分けるとまとまりが失われます）",
+      "写実、精密なベクター、なめらかな縁を求める場合",
+      "画面いっぱいのランダムなステッカー、市販のステッカーパック、EC 素材のような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "투박한 손그림 스티커 집합",
+    "tagline": "사진 속 주인공을 굵은 붓의 손그림 스티커 여러 장으로 나눈 뒤, 화면 가운데에 다시 하나로 모읍니다.",
+    "look": "주인공의 가장 중요한 특징 몇 가지를 작고 독립된 스티커 여러 장으로 나눕니다. 형태는 굵고 투박하며 조금 서툴고, 윤곽은 오려 낸 스티커처럼 또렷하며, 크레용, 과슈, 거친 붓으로 덧칠한 질감이 있습니다. 스티커들은 가운데로 모여 크기를 달리하고 어긋나게 겹치며 방향을 맞추어, 합쳐서 알아볼 수 있는 주인공 하나를 이룹니다. 반듯한 격자도, 마구 흩뿌린 것도 아닙니다. 색은 사진의 정겨운 색을 크림 노랑, 복숭아빛 분홍, 산호 주황, 민트, 호수빛 청록, 안개 파랑, 연보라 같은 밝고 따뜻한 색으로 바꿉니다. 주변은 넓은 여백이고, 짧은 글이 여백이나 스티커 무리 가장자리에 조금 들어갑니다.",
+    "traits": [
+      "투박한 굵은 붓질",
+      "스티커 단위",
+      "중앙 집합",
+      "손맛 나는 질감",
+      "넓은 여백"
+    ],
+    "good": [
+      "여러 부분으로 나눌 수 있는 주인공: 고양이(귀, 꼬리, 발), 꽃다발, 햄버거, 자전거",
+      "작은 물건이 몇 가지 있는 일상 장면: 아침 식탁, 책가방과 문구, 피크닉 바구니",
+      "스티커, 굿즈, 휴대폰 케이스 무늬, 발랄한 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "하나로 이어진 형태가 필요한 사진: 얼굴 클로즈업, 넓은 풍경(스티커로 나누면 통일감이 사라집니다)",
+      "사실적 표현, 정밀한 벡터, 매끈한 가장자리를 원하는 경우",
+      "화면 가득한 무작위 스티커, 상업 스티커 팩, 쇼핑몰 소재 같은 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تجمع ملصقات مرسومة بخطوط عفوية",
+    "tagline": "يقسم بطل صورتك إلى ملصقات مرسومة يدوياً بخطوط عريضة، ثم يجمعها في المنتصف لتصير شكلاً واحداً.",
+    "look": "تُقسَّم أهم ملامح العنصر إلى عدة ملصقات صغيرة منفصلة: أشكال ممتلئة عفوية فيها شيء من الخرق، بحدود واضحة كملصقات مقصوصة، وبملمس أقلام الشمع أو الغواش أو الفرشاة الخشنة. تتجمع في المنتصف بأحجام مختلفة، متزاحة ومتراكبة، باتجاهات متجاوبة، فتكوّن معاً عنصراً يمكن التعرف عليه، لا شبكة مرتبة ولا نثراً عشوائياً. تتحول الألوان الودودة من الصورة إلى درجات زاهية دافئة مثل الأصفر الكريمي والخوخي والمرجاني والنعناعي وفيروزي البحيرة والأزرق الضبابي والليلكي الناعم. يحيط بالمجموعة فراغ أبيض واسع، فيه كلمات قصيرة قليلة أو على حافة المجموعة.",
+    "traits": [
+      "خطوط عريضة عفوية",
+      "قطع ملصقات",
+      "تجمع مركزي",
+      "ملمس يدوي",
+      "فراغ واسع"
+    ],
+    "good": [
+      "عناصر يمكن تقسيمها إلى أجزاء: قطة (أذنان وذيل ومخالب)، باقة زهور، شطيرة برغر، دراجة",
+      "مشاهد يومية فيها أشياء صغيرة قليلة: مائدة فطور، حقيبة مدرسية وأدوات قرطاسية، سلة نزهة",
+      "صور تريدها ملصقات أو منتجات تذكارية أو نقشة لغطاء هاتف أو ملصقاً مرحاً"
+    ],
+    "poor": [
+      "صور تحتاج إلى شكل واحد متصل: وجوه عن قرب، مناظر طبيعية واسعة، تفقد وحدتها حين تُقسَّم إلى ملصقات",
+      "طلب واقعية أو رسوم متجهية دقيقة أو حواف ملساء",
+      "طلب شاشة مليئة بملصقات عشوائية أو حزمة ملصقات تجارية أو رسوم جاهزة للمتاجر الإلكترونية"
+    ]
+  }
+}
